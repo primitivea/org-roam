@@ -6,7 +6,7 @@ Berkembangnya teknologi saat ini, membuat pihak ekspedisi berinovasi untuk menin
 Cara Kirim Makanan Lewat Paxel
 ==========================
 
-Paxel diluncurkan pada 2017 lalu, meski baru berumur lima tahun Paxel mampu memikat hati para penggunanya. Penggunaanya yang mudah dalam menerima jasa pengiriman makanan di dalam dan luar kota membuat jasa Paxel banyak diminati oleh pengguna.
+`Paxel <https://paxel.co/>`_ diluncurkan pada 2017 lalu, meski baru berumur lima tahun Paxel mampu memikat hati para penggunanya. Penggunaanya yang mudah dalam menerima jasa pengiriman makanan di dalam dan luar kota membuat jasa Paxel banyak diminati oleh pengguna.
 
 Jika kamu ingin mengirimkan makanan kepada teman, saudara, atau pelanggan di dalam atau luar kota, maka kamu bisa coba gunakan jasa pengiriman menggunakan Paxel. Selain cara pengirimannya yang cepat, prosesnya juga mudah. Berikut langkah-langkah untuk mengirim makanan lewat Paxel.
 
