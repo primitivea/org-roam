@@ -13,7 +13,7 @@ Jika kamu ingin mengirimkan makanan kepada teman, saudara, atau pelanggan di dal
 #1 Siapkan Makanan dengan Aman
 ------------------------
 
-Saat akan mengirimkan makanan, pastikan kamu sudah mengemas makanan dalam kondisi yang baik dan aman. Misalkan untuk jenis makanan beku atau frozen food, kamu bisa bungkus menggunakan styrofoam, dan  menambahkan ice gel untuk menjaga suhu makanan selama proses pengiriman. Gunakan wadah atau tempat yang lebih besar dari makanan, pastikan makanan tertutup rapat, bungkus menggunakan kardus dan tutup segel menggunakan isolasi yang kedap udara.
+Saat akan mengirimkan makanan, pastikan kamu sudah mengemas makanan dalam kondisi yang baik dan aman. Misalkan untuk jenis makanan beku atau frozen food dari sebuah `grocery stores <https://www.kobi-id.org>`_, kamu bisa bungkus menggunakan styrofoam, dan  menambahkan ice gel untuk menjaga suhu makanan selama proses pengiriman. Gunakan wadah atau tempat yang lebih besar dari makanan, pastikan makanan tertutup rapat, bungkus menggunakan kardus dan tutup segel menggunakan isolasi yang kedap udara.
 
 Selain itu kamu bisa tambahkan bubble wrap untuk menjaga keamanan makanan selama proses pengiriman. Laporkan kepada pihak Paxel jika paket yang kamu kirimkan adalah frozen food agar nantinya paket tersebut diberikan stiker khusus “frozen food”.
 
@@ -52,8 +52,6 @@ Paxel menyediakan beberapa metode pembayaran antara lain bank, OVO, Gopay, dan P
 ------------------------
 
 Setelah melakukan pembayaran, maka kurir akan menuju ke lokasi kamu untuk mengambil paket makanan yang akan kamu kirim. Kamu juga bisa melakukan pengecekan status pengiriman pada aplikasi Paxel secara langsung.
-
-**Lihat juga**: `Cara Cek Resi JNE <https://paketmu.com/cek-resi-jne/>`_
 
 #8. Pahami Waktu dan Proses Pengiriman Paxel
 ------------------------
